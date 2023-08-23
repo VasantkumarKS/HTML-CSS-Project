@@ -7,3 +7,5 @@ Project 2 - Job Application Form.
 
 Project 3 - Parallax Simple Website
 
+Project 4 - Toggle Button Using CSS
+
