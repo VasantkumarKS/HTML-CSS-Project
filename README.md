@@ -1,5 +1,4 @@
 # HTML-CSS-Project
-<br>
 <b> 
 I Developed some practice course project using HTML and CSS.
 </b>
