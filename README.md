@@ -7,7 +7,7 @@ Project 1 - Indian Flag Created Using HTML & CSS.
 <br>
 Project 2 - Job Application Form.
 <br>
-<br>+
+<br>
 Project 3 - Parallax Simple Website
 <br>
 <br>
